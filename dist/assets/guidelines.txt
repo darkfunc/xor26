@@ -1,0 +1,141 @@
+XOR '26 
+ICT Competition Day of the Computer Society of Nalanda College 
+Competition Guidelines 
+General Information 
+• Competition dates, registration deadlines, and submission deadlines will be announced. 
+Registration and submission links will be provided separately. 
+• Students may participate in multiple competitions. 
+• Schools may enter any number of students in individual events, with one entry per 
+participant per event. 
+• Submitted files and links must remain accessible to the judges throughout the judging 
+period. 
+• No changes may be made to submitted work after the announced submission 
+deadline. This includes hosted websites, repositories, design files, and Google Drive files. 
+• Incomplete submissions, including entries missing required files or links, will be 
+disqualified. 
+• Participants must credit external resources used and follow the rules of their respective 
+competition. 
+1. Hackathon - Group Event 
+Eligibility: Students in Grades 6-13. Each school may enter one team of up to four members. 
+Themes 
+Develop a technology-based solution under one of the following themes: 
+• GreenTech - Technology for Nature: Environmental protection, conservation, or 
+sustainable living. 
+• EduTech - Rethinking Learning: Accessible education, interactive learning, or skill 
+development. 
+• CommunityTech - Connected Communities: Accessibility, transport, disaster 
+preparedness, or local services. 
+Preliminary Round - Online 
+• Submit a project document in PDF format and a 3-5-minute video through Google 
+Drive, with viewing access enabled for the judges. 
+• Explain the problem, proposed solution, intended users, technologies used, and 
+development progress. 
+• Early-stage prototypes are accepted. Include a demonstration of the prototype and 
+clearly identify features still under development. 
+• Four teams will advance to the final. 
+Final Round - On Site 
+• Finalists must present a working prototype of their solution. 
+• Selected teams may develop their projects further before the final. Any final submission 
+deadline will be communicated to them. 
+• The final begins at 2:00 p.m. on ICT Day. 
+• Each team receives 10 minutes to present and demonstrate its project, followed by a 
+question-and-answer session with the judges. 
+Judging Criteria 
+• Problem relevance and potential impact - 25% 
+• Innovation and originality - 25% 
+• Technical approach and feasibility - 20% 
+• Implementation progress and demonstration - 20% 
+• Presentation and understanding of the project - 10% 
+2. ICT Quiz - Group Event 
+Eligibility: Students in Grades 6-13. Each school may enter one team of four members. 
+Competition Structure 
+• Entry Round - Online: The top five teams advance to the Qualifier Round. 
+• Qualifier Round - Online: The top two teams advance to the Final Round. 
+• Final Round - On Stage: The two finalists compete live on ICT Day, following the 
+hackathon final. 
+Questions will cover general knowledge, the local O/L and A/L ICT syllabuses, logical 
+thinking, problem-solving skills, and broader ICT knowledge. 
+Round dates will be announced. Detailed guidelines, including the competition format, scoring 
+system, and tie-breaking procedures, will be sent by email once a school registers. 
+3. Web Development Challenge - Individual Event 
+Eligibility: Students in Grades 6-13. 
+Theme - Explore Responsibly 
+Build a functional website for a fictional organization that helps people discover and protect Sri 
+Lanka's natural attractions. 
+Instructions 
+• Include information about the organization, featured destinations, responsible travel 
+practices, and a contact or inquiry section. 
+• Include at least three pages or clearly defined sections. 
+• Implement at least one working interactive feature, such as destination filtering, search, 
+or a trip planner. 
+• The website must work on desktop and mobile screens, with clear navigation and readable 
+content. 
+• The required interactive feature must be fully functional. Clearly labelled demonstration-only 
+features will not count toward this requirement. 
+• Any web technology may be used. External libraries are permitted with attribution, but 
+copied websites and pre-made website templates are not allowed. 
+• AI-generated code, content, and visuals, and AI-assisted development are not 
+permitted. 
+Submission 
+Submit the hosted website link on any domain or hosting subdomain and the GitHub 
+repository link. Both must be accessible to the judges. 
+The repository must include the source files, asset credits, and any necessary setup instructions. 
+Judging Criteria 
+Functionality, usability and accessibility, responsive design, code quality, creativity, and relevance 
+to the theme. 
+4. UI/UX Design Challenge - Individual Event 
+Eligibility: Students in Grades 6-13. 
+Theme - Something Went Wrong: Upload Interrupted 
+Design a mobile or web interface that helps a student recover when their internet connection drops 
+while uploading a competition entry near the deadline. 
+Instructions 
+• Participants may use any recognized UI/UX design tool. 
+• Include at least one primary interface screen, such as the submission page or 
+dashboard. 
+• Provide a short user flow or wireframe with at least three connected screens or states, 
+showing the upload, interruption, and recovery. 
+• Create a clickable prototype demonstrating the recovery journey. 
+• Clearly communicate upload progress, what has been saved, available next steps, and the 
+final submission status. 
+• Include an alternative outcome where recovery fails or time runs out. 
+• Designs must be original. Plagiarism and pre-made templates are not permitted. 
+• The interface should demonstrate visual consistency, accessibility, and an understanding of 
+the user's needs. 
+• No coding or video submission is required. 
+Scenario rule: An upload started before the deadline has a 10-minute grace period to complete 
+submission. Afterward, the student may request organizer review without guaranteed acceptance. 
+This rule applies only to the design scenario, not to this competition's actual submission deadline. 
+Submission 
+Submit: 
+• The design file or accessible design link 
+• An accessible clickable prototype link 
+• The user flow or wireframes 
+• A short explanation of the design decisions 
+Judging Criteria 
+• Recovery flow and problem-solving - 30% 
+• Clarity of messages and next steps - 25% 
+• Usability and accessibility - 20% 
+• Visual hierarchy and consistency - 15% 
+• Creativity and attention to detail - 10% 
+5. Image Manipulation Challenge - Individual Event 
+Eligibility: Students in Grades 6-13. 
+Theme - Technology Meets Nature 
+Create an original scene combining technology and nature through image manipulation. Explore 
+how technological elements and natural environments can coexist. 
+Instructions 
+• Any image-editing software may be used. 
+• The artwork must combine and manipulate source images into a cohesive composition. 
+• AI tools and AI-generated images are not permitted. 
+• Source images must be owned by the participant or permitted for reuse, with credits 
+provided where applicable. 
+Submission 
+Submit a Google Drive folder link containing: 
+• The final image in JPG or PNG format 
+• The editable project file, such as PSD or the equivalent native format 
+• All source images used in the artwork 
+Enable viewing and downloading access for the judges. 
+Judging Criteria 
+Creativity, relevance to the theme, composition, quality of blending and manipulation, and attention 
+to detail. 
+The Web Development, UI/UX Design, and Image Manipulation challenges will be submitted 
+and judged entirely online. 
