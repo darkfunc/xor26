@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://xor26.csnc.lk/sitemap.xml

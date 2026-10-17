@@ -170,3 +170,6 @@ html[data-motion=paused]{scroll-behavior:auto}html[data-motion=paused] *,html[da
  .hero-ticker>div{padding:10px 0}.hero-status{font-size:6px;padding:10px 14px;gap:12px}.hero-status>span:last-child{text-align:right}
 }
 @media(prefers-reduced-motion:reduce){.hero-ticker>div{animation:none}}
+
+:where(a,button,summary,[tabindex]):focus-visible{outline:2px solid #00e676;outline-offset:4px}
+@media(prefers-reduced-motion:reduce){.noise,#hero-glass{display:none!important}}
